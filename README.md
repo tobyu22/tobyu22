@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tobyu22
+- 👀 I’m interested in learning more about programming
+- 🌱 I’m currently learning web development
+- ⚡ Fun fact: I'm a professional boxer
